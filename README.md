@@ -1,3 +1,3 @@
 # hello-world
 
-lorem ipsum 
+the quick brown fox
